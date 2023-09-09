@@ -36,6 +36,10 @@ Not every model architecture is compatible with Blackstar. While most models in 
 - Many of the application's icons were downloaded from [Icons8](https://icons8.com/). Extraction and reuse of Icons8 graphics is prohibited.
 #
 
+> [!WARNING]
+> This is an open-source project that is still in the early stages of development and it's not ready for general use.
+
+
 <div align="center">
 
 </div>
