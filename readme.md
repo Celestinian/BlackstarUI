@@ -16,7 +16,7 @@ This project is compatible with the Transformers library and the HuggingFace hub
 
 # ⚖️ Screenshots 
 
-You can check out some screenshots of the UI [here](COMPARISONS.MD).
+You can check out some screenshots of the UI [here](examples.md).
 
 # 🤓 FAQ 
 
