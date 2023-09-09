@@ -2,7 +2,7 @@
   "name": "blackstar",
   "productName": "blackstar",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A simple user interface for inferencing LLMs.",
   "main": "src/scripts/index.js",
   "scripts": {
     "start": "electron-forge start",
