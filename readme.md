@@ -32,7 +32,7 @@ You can check out some screenshots of the UI [here](examples.md).
 Not every model architecture is compatible with Blackstar. While most models in the HuggingFace Hub should work, this is not a universal rule.
 
 > [!WARNING]
-> This is an open-source project that is still in the early stages of development and it's not ready for general use.
+> This is an open-source project that is still in the early stages of development and is not ready for general use.
 
 # ❤ Credits 
 
